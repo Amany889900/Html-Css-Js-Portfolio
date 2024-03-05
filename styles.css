@@ -1,0 +1,61 @@
+ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   background-color:rgb(104, 142, 224);
+   overflow: hidden;
+}
+
+li{
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color:grey;
+  }
+  
+  body {
+
+   background-image: url('https://65designs.com/wp-content/uploads/2020/07/crop.jpg');
+   background-size: cover;
+   
+  }
+  h1{
+ color: white;
+ font-style:oblique;
+text-align: right;
+margin-top:300px ;
+margin-right:475px ;
+
+  }
+  #brief{
+    color: white;
+    position: relative;
+    text-align: right;
+    margin-right:175px ;
+    font-size: 25px;
+    
+  }
+
+  #resumephoto{
+
+position: relative;
+margin-right:600px;
+margin-top:0px ;
+margin-bottom: auto;
+margin-left: 0px;
+height: 300px;
+
+border-radius: 50%;
+
+    
+
+  }
+
+  
