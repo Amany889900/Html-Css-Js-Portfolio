@@ -140,9 +140,37 @@ font-style: oblique;
     padding: 10px 30px;
     color: white;
   }
+  
+  .card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    background-image: url('card-bg.jpg'); /* Replace with your card background image */
+    background-size: cover; /* Adjust to fit the card size */
+    color: white; /* Set text color for better visibility */
+    margin: 50px;
+    border: 0.5px solid rgb(104, 142, 224);
+    padding: 20px;
+    border-radius: 15px;
+    
+
+   
+  }
 
   #resumedownload:hover {
     background-color: grey;
+}
+
+#outlook-logo{
+  border-radius: 50%;
+}
+
+.custom-button {
+
+  color: white; /* Text color */
+}
+
+#mainContact{
+  display: flex;
 }
 
   
